@@ -1,0 +1,31 @@
+/* -----------------------------------------
+   Main Color #Cyan
+----------------------------------------- */
+
+a, a:visited {
+	color: #215477;
+}
+
+a:hover {
+	color: #2e75a6;
+}
+
+body {
+	background-color: #15354b;
+}
+
+a.btn:hover,
+input[type=submit].btn:hover,
+button.btn:hover {
+	color: #15354b;
+}
+
+.offer-badge,
+.searchsubmit {
+	background-color: #215477;
+}
+
+.offer-badge:before {
+	border-color: #215477;
+}
+

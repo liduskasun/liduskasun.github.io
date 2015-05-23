@@ -1,0 +1,31 @@
+/* -----------------------------------------
+   Main Color #Red
+----------------------------------------- */
+
+a, a:visited {
+	color: #a53b22;
+}
+
+a:hover {
+	color: #ca694a;
+}
+
+body {
+	background-color: #773029;
+}
+
+a.btn:hover,
+input[type=submit].btn:hover,
+button.btn:hover {
+	color: #773029;
+}
+
+.offer-badge,
+.searchsubmit {
+	background-color: #a53b22;
+}
+
+.offer-badge:before {
+	border-color: #a53b22;
+}
+

@@ -1,0 +1,31 @@
+/* -----------------------------------------
+   Main Color #Black
+----------------------------------------- */
+
+a, a:visited {
+	color: #ffffff;
+}
+
+a:hover {
+	color: #e2e2e2;
+}
+
+body {
+	background-color: #000;
+}
+
+a.btn:hover,
+input[type=submit].btn:hover,
+button.btn:hover {
+	color: #000;
+}
+
+.offer-badge,
+.searchsubmit {
+	background-color: #202020;
+}
+
+.offer-badge:before {
+	border-color: #202020;
+}
+
