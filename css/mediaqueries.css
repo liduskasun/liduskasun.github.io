@@ -34,6 +34,6 @@
 	.featurette {	position: relative;	margin-top: 340px; }
 	.featurette .item {	margin-bottom: 30px; }
 	.slides-navigation { display: none; }
-	.slide-content { margin-top: 250px; }
-	#slides { height: 500px !important; border-bottom: 1px solid rgba(255,255,255,0.3); }
+	.slide-content { margin-top: 24em; }
+	#slides { height: 1200px !important; border-bottom: 1px solid rgba(255,255,255,0.3); }
 }
